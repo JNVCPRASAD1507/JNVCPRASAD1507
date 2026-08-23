@@ -14,8 +14,8 @@ I enjoy transforming ideas into real-world applications using modern frontend an
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/JNVCPRASAD1507">
-  <img src="https://img.shields.io/badge/💻%20GitHub-Projects-181717?style=for-the-badge&logo=github" />
+<a href="https://www.instagram.com/jnv.k_8/">
+  <img src="https://img.shields.io/badge/📸%20Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/jnvcprasadkolli">
@@ -133,12 +133,12 @@ React.js • Material UI • FastAPI • PostgreSQL • SQLAlchemy
 
 ---
 
-### 🛍️ RetailPulse — Product & Category Management
+### 🛍️ E-commerce Shopping Cart
 
 A full-stack product and category management system with authentication and role-based authorization.
 
 **Tech Stack:**
-React.js • FastAPI • PostgreSQL • SQLAlchemy • Alembic • JWT
+React.js • JWT
 
 **Key Features:**
 
@@ -147,17 +147,11 @@ React.js • FastAPI • PostgreSQL • SQLAlchemy • Alembic • JWT
 * Product Management
 * Category Management
 * REST APIs
-* Database Migrations
 * Responsive React UI
 
----
+**Need to Add Features:**
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JNVCPRASAD1507&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNVCPRASAD1507&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+* Payment Integration
 
 ---
 
