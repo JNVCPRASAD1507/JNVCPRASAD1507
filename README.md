@@ -11,7 +11,7 @@ I enjoy transforming ideas into real-world applications using modern frontend an
 <p align="center">
 
 <a href="https://jnvcprasad.vercel.app/">
-  <img src="https://img.shields.io/badge/%20Portfolio-Visit%20Website-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge" />
 </a>
 
 <a href="https://www.instagram.com/jnv.k_8/">
@@ -19,7 +19,7 @@ I enjoy transforming ideas into real-world applications using modern frontend an
 </a>
 
 <a href="https://www.linkedin.com/in/jnvcprasadkolli">
-  <img src="https://img.shields.io/badge/LinkedIn-5K%2B%20Followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-5K%2B%20Followers-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 </p>
