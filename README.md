@@ -11,19 +11,15 @@ I enjoy transforming ideas into real-world applications using modern frontend an
 <p align="center">
 
 <a href="https://jnvcprasad.vercel.app/">
-  <!-- <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge" /> -->
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge" />
 </a>
 
 <a href="https://www.instagram.com/jnv.k_8/">
-  <!-- <img src="https://img.shields.io/badge/📸%20Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/📸%20Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/jnvcprasadkolli">
-  <!-- <img src="https://img.shields.io/badge/💼%20LinkedIn-5K%2B%20Followers-0A66C2?style=for-the-badge&logo=linkedin" /> -->
-</a>
-
-<a href="mailto:chandraprasadkolli@gmail.com">
-  <!-- <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-5K%2B%20Followers-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 </p>
