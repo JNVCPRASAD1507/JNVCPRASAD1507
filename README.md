@@ -1,6 +1,6 @@
-# 👋 Hi, I'm JNVC Prasad
+# 👋 Hi, I'm JNVC Prasad Kolli
 
-### 🚀 Full Stack Developer | React.js | FastAPI | Java | SQL
+### 🚀 Full Stack Developer | React.js | Python | FastAPI | Java | Spring Boot | Node.js | PostgreSQL | Material UI | Exploring AI
 
 I'm a passionate **Full Stack Developer** focused on building scalable, responsive, and user-friendly web applications.
 
@@ -11,15 +11,19 @@ I enjoy transforming ideas into real-world applications using modern frontend an
 <p align="center">
 
 <a href="https://jnvcprasad.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge" />
+  <!-- <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge" /> -->
 </a>
 
 <a href="https://www.instagram.com/jnv.k_8/">
-  <img src="https://img.shields.io/badge/📸%20Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/📸%20Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> -->
 </a>
 
 <a href="https://www.linkedin.com/in/jnvcprasadkolli">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-5K%2B%20Followers-0A66C2?style=for-the-badge&logo=linkedin" />
+  <!-- <img src="https://img.shields.io/badge/💼%20LinkedIn-5K%2B%20Followers-0A66C2?style=for-the-badge&logo=linkedin" /> -->
+</a>
+
+<a href="mailto:chandraprasadkolli@gmail.com">
+  <!-- <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> -->
 </a>
 
 </p>
@@ -205,6 +209,14 @@ Scalable Production Applications
 
 ---
 
+## 📜 Certifications
+
+* **Java Full Stack Development** — Career IT Institute
+* **AI Tool Workshop** — be10x
+
+
+---
+
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with developers, recruiters, and people working on interesting technology projects.
@@ -215,9 +227,9 @@ I'm always interested in connecting with developers, recruiters, and people work
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/JNVCPRASAD1507">
+<!-- <a href="https://github.com/JNVCPRASAD1507">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</a> -->
 
 <a href="https://www.linkedin.com/in/jnvcprasadkolli">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
