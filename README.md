@@ -155,22 +155,6 @@ React.js • JWT
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JNVCPRASAD1507&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JNVCPRASAD1507&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 ```text
